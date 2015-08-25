@@ -1,9 +1,7 @@
 package controllers
 
-import play.api._
-import play.api.mvc._
-import play.api.Play.current
-import jsmessages.api.JsMessages
+import play.api.mvc.Action
+import play.api.mvc.Controller
 
 object Application extends Controller {
 
